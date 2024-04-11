@@ -11,7 +11,7 @@ export default function Navigation() {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar-nav" />
         <Navbar.Collapse id="navbar-nav">
-          <Nav className="me-auto">
+          <Nav className="ms-auto">
             <Link to="/desafio-happycake" className='nav-link text-decoration-none text-white'>
             Home
             </Link>
